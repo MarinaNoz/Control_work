@@ -1,0 +1,15 @@
+C:\Users\mnozdracheva\Desktop\C#\Control_work\Task\bin\Debug\net6.0\Task.exe
+C:\Users\mnozdracheva\Desktop\C#\Control_work\Task\bin\Debug\net6.0\Task.deps.json
+C:\Users\mnozdracheva\Desktop\C#\Control_work\Task\bin\Debug\net6.0\Task.runtimeconfig.json
+C:\Users\mnozdracheva\Desktop\C#\Control_work\Task\bin\Debug\net6.0\Task.dll
+C:\Users\mnozdracheva\Desktop\C#\Control_work\Task\bin\Debug\net6.0\Task.pdb
+C:\Users\mnozdracheva\Desktop\C#\Control_work\Task\obj\Debug\net6.0\Task.csproj.AssemblyReference.cache
+C:\Users\mnozdracheva\Desktop\C#\Control_work\Task\obj\Debug\net6.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnozdracheva\Desktop\C#\Control_work\Task\obj\Debug\net6.0\Task.AssemblyInfoInputs.cache
+C:\Users\mnozdracheva\Desktop\C#\Control_work\Task\obj\Debug\net6.0\Task.AssemblyInfo.cs
+C:\Users\mnozdracheva\Desktop\C#\Control_work\Task\obj\Debug\net6.0\Task.csproj.CoreCompileInputs.cache
+C:\Users\mnozdracheva\Desktop\C#\Control_work\Task\obj\Debug\net6.0\Task.dll
+C:\Users\mnozdracheva\Desktop\C#\Control_work\Task\obj\Debug\net6.0\refint\Task.dll
+C:\Users\mnozdracheva\Desktop\C#\Control_work\Task\obj\Debug\net6.0\Task.pdb
+C:\Users\mnozdracheva\Desktop\C#\Control_work\Task\obj\Debug\net6.0\Task.genruntimeconfig.cache
+C:\Users\mnozdracheva\Desktop\C#\Control_work\Task\obj\Debug\net6.0\ref\Task.dll
